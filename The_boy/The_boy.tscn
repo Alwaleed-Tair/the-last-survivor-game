@@ -1,5 +1,0 @@
-[gd_scene format=3 uid="uid://dwd6t88oqjkdq"]
-
-[node name="TheBoy" type="Node3D"]
-
-[node name="RootMotionView" type="RootMotionView" parent="."]
